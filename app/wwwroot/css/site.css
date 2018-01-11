@@ -1,13 +1,13 @@
 body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+    padding-top: 550px;
+    padding-bottom: 520px;
 }
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 515px;
+    padding-right: 515px;
 }
 
 /* Set widths on the form inputs since otherwise they're 100% wide */
@@ -19,7 +19,7 @@ textarea {
 
 /* Carousel */
 .carousel-caption p {
-    font-size: 20px;
+    font-size: 520px;
     line-height: 1.4;
 }
 
